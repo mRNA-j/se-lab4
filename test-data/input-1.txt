@@ -1,0 +1,3 @@
+#Fire all torpedoes, without failure
+GT4500,10,0,10,0
+TORPEDO,ALL

@@ -1,0 +1,2 @@
+SUCCESS #Create new torpedo
+SUCCESS #Fire All

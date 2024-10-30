@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 #create empty torpedo
+TORPEDO,SINGLE #try to fire
